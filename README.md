@@ -27,10 +27,10 @@ cd MLflow-DagsHub
 ```
 
 ##  Repository Structure
-
+```
 MLflow-DagsHub/  
 │── MLflow.ipynb                 # Main notebook with MLflow + DagsHub demo  
 │── MLflow-first-experiment.ipynb # First Experiment (local)  
 │── Parallel_coordinate.png       # Compared the models on MLflow  
 │── README.md                     # Project documentation   
-
+```
