@@ -20,12 +20,11 @@ To run the notebook, install the following dependencies:
 pip install mlflow dagshub jupyter
 ```
 
-## Usage
-
-**Clone the repository:**
+###  Clone the repository:
 ```bash
 git clone https://github.com/Kahkashan2708/MLflow-DagsHub.git
 cd MLflow-DagsHub
+```
 
 ##  Repository Structure
 
