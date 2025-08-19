@@ -18,6 +18,7 @@ To run the notebook, install the following dependencies:
 
 ```bash
 pip install mlflow dagshub jupyter
+```
 
 ## Usage
 
