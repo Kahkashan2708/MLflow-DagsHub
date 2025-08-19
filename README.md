@@ -13,25 +13,24 @@ The included notebook **MLflow.ipynb** walks through:
 
 ---
 
-##  Requirements
+## Requirements
 To run the notebook, install the following dependencies:
 
 ```bash
 pip install mlflow dagshub jupyter
 
-##  Usage
+## Usage
 
 **Clone the repository:**
 ```bash
 git clone https://github.com/Kahkashan2708/MLflow-DagsHub.git
 cd MLflow-DagsHub
 
-**Launch Jupyter Notebook:**
-```bash
-jupyter notebook
+##  Repository Structure
 
-**Repository Structure:**
-
-MLflow-DagsHub/
+MLflow-DagsHub/  
 │── MLflow.ipynb    # Main notebook with MLflow + DagsHub demo
-│── README.md       # Project documentation
+|── MLflow-first-experiment.ipynb  # First Experiment (local)
+|── Parallel_coordinate.png  # Compared the models on MLflow
+│── README.md       # Project documentation  
+
